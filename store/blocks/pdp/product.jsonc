@@ -102,7 +102,7 @@
     },
     "children": [
       "flex-layout.row#product-name",
-      "yv-product-rating-summary",
+      "product-rating-summary",
       "flex-layout.row#list-price-savings",
       "flex-layout.row#selling-price",
       "product-installments",
